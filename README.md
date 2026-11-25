@@ -33,7 +33,8 @@ It must provide secure role-based access for passengers, administrators, and rai
 ## UML DIAGRAMS:
 
 ## 1. Use Case Diagram
-<img width="982" height="710" alt="image" src="https://github.com/user-attachments/assets/02cecfbc-20b5-403f-b4a4-7ca280c723e3" />
+<img width="989" height="713" alt="image" src="https://github.com/user-attachments/assets/f486d1df-e90c-4ad2-8daf-049d2a3c76d5" />
+
 
 
 ## 2. Class Diagram
@@ -49,7 +50,8 @@ It must provide secure role-based access for passengers, administrators, and rai
 
 
 ## 5. Communication Diagram
-<img width="989" height="708" alt="image" src="https://github.com/user-attachments/assets/dccf97de-dd5a-489c-8eda-65bca0bb6f6c" />
+<img width="981" height="711" alt="image" src="https://github.com/user-attachments/assets/6b0d8133-4d76-4e11-8408-b5e2d6540a45" />
+
 
 
 ## 6. Package Diagram
